@@ -1,0 +1,10 @@
+import React from "react";
+import "./style.css"
+
+function About (){
+    return(
+        <h1>Hello about</h1>
+    );
+}
+
+export default About;
