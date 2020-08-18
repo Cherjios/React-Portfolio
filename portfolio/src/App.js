@@ -7,6 +7,7 @@ import About from "./pages/About"
 import Portfolio from "./pages/portfolio"
 import Home from "./pages/home"
 
+
 function App() {
   return (
     <Router>
