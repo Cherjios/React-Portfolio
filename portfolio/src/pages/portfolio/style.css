@@ -1,0 +1,15 @@
+.img{
+    border-radius: 8px;
+    width: 400px;
+    float: left;
+    margin: 10px;  
+}
+
+.box{
+    padding-left: 30%;
+    text-align: justify;
+}
+
+.links{
+    text-align: center;
+}

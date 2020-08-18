@@ -3,7 +3,7 @@
      "id":1,
      "name": "Spoiler Alert!",
      "description": "Helping you use it, before you lose it. Spoiler Alert is a food inventory and status tracking application. Users can sign-in to view items, add items, update item quantities, and remove items from their refrigerator. When items near their expiration date, Spoiler Alert! will send an alert to the user’s email informing him/her of the item that is near expiration.",
-     "picture":"./img/spoilerAlert.png",
+     "img":"https://i.imgur.com/GKBOEZJ.png",
      "deployedLink": "https://refritrack.herokuapp.com/",
      "githubLink": "https://github.com/shambhawi13/Refritrack/"
      }
