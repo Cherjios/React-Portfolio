@@ -17,7 +17,7 @@ function Home() {
                         <div className="col-6">
                             <Link to="/about">
                             <h1 className="">About me!</h1>
-                            <p className="lead title-font">Thanks for visiting my website!</p>
+                            <p className="lead title-font">I am currently studying the web developer boot camp at Berkeley Extension!</p>
                             </Link>
                         </div>
                         <div className="col-6 text-right">
