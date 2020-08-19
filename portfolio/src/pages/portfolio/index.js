@@ -24,10 +24,10 @@ function Portfolio() {
                             <div className="col"><h1 >{xproject.name}</h1> </div>
                         </div>
                         <div className="row">
-                            <div className="col-6" key={xproject.id}>
+                            <div className="col-md-auto col-lg-6" key={xproject.id}>
                                 <img src={xproject.img} alt={xproject.name} className="img" />
                             </div>
-                            <div className="col-6 box">
+                            <div className="col-md-auto col-lg-6 box">
                                 <p>{xproject.description}</p>
                                 <div className="links">
                                     <a href={xproject.deployedLink} target="_blank rel=noopener" className="btn btn-dark">Deployed version</a>
