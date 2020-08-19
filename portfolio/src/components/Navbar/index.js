@@ -21,13 +21,13 @@ function Navbar() {
                     <li className
                         ="nav-item text-white mtext">
                         <Link className
-                            ="nav-link " to="/about"><span className
+                            ="nav-link " to="/React-Portfolio/about"><span className
                                 ="text-white">About</span></Link>
                     </li>
                     <li className
                         ="nav-item text-white mtext">
                         <Link className
-                            ="nav-link" to="/portfolio"><span className
+                            ="nav-link" to="/React-Portfolio/portfolio"><span className
                                 ="text-white">Portfolio</span></Link>
                     </li>
                     <li className
