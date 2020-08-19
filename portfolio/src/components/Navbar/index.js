@@ -19,19 +19,19 @@ function Navbar() {
                 <ul className
                     ="nav navbar-nav ml-auto w-100 justify-content-end">
                     <li className
-                        ="nav-item">
+                        ="nav-item text-white mtext">
                         <Link className
                             ="nav-link " to="/about"><span className
                                 ="text-white">About</span></Link>
                     </li>
                     <li className
-                        ="nav-item text-white">
+                        ="nav-item text-white mtext">
                         <Link className
                             ="nav-link" to="/portfolio"><span className
                                 ="text-white">Portfolio</span></Link>
                     </li>
                     <li className
-                        ="nav-item text-white">
+                        ="nav-item text-white mtext">
                         <Link className
                             ="nav-link" to={PDF} target="_blank"><span className
                                 ="text-white">Resume</span></Link>
