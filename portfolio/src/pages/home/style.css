@@ -52,5 +52,5 @@ a.thisLink:link {
   
   /* selected link */
   a.thisLink:active {
-    color: blue;
+    color: #f6d327;
   }

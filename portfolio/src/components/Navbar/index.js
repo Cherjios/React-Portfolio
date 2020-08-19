@@ -8,7 +8,7 @@ function Navbar() {
     return (
 
 
-        <nav className="navbar navbar-light navbar-expand-md bg-faded justify-content-center bg-secondary">
+        <nav className="navbar navbar-light navbar-expand-md bg-faded justify-content-center ncolor">
             <Link to="/" className="navbar-brand d-flex w-50 mr-auto"><samp className="text-white title-font">Sergio Lopez
         Murillo</samp></Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3">
