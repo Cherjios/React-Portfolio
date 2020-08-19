@@ -1,6 +1,6 @@
 .img{
     border-radius: 8px;
-    width: 400px;
+    width: 450px;
     /* float: left; */
     margin: 10px;  
 }
@@ -21,4 +21,8 @@ h1{
 
 p{
     font-size: 1.3em;
+}
+
+a:visited {
+    color: white;
 }

@@ -5,26 +5,26 @@ import { Link } from "react-router-dom";
 function Home() {
     return (
         <div>
-            <div className="jumbotron jumbotron-fluid">
+            <div className="jumbotron jumbotron-fluid jcolor">
                 <div className="container title-center">
-                    <h1 className="display-4 font-weight-bolder title-font">Sergio Lopez</h1>
-                    <p className="lead title-font">Thanks for visiting my website!</p>
+                    <h1 className="title-font titleh1">Sergio Lopez</h1>
+                    <p className="ptitle">Thanks for visiting my website!</p>
                 </div>
             </div>
-            <div className="jumbotron jumbotron-fluid ">
+            <div className="jumbotron jumbotron-fluid jcolor1">
                 <div className="container">
                     <div className="row">
                         <div className="col-6">
-                            <Link to="/about">
-                            <h1 className="">About me!</h1>
-                            <p className="lead title-font">I am currently studying the web developer boot camp at Berkeley Extension!</p>
+                            <Link to="/about" className="thisLink">
+                                <h1 className="subh1">About me!</h1>
                             </Link>
+                            <p className="subp">I am currently studying the web developer boot camp at Berkeley Extension!</p>
                         </div>
-                        <div className="col-6 text-right">
-                            <Link to="portfolio">
-                            <h1 className="">Portfolio</h1>
-                            <p className="lead title-font">Take a look to the work that I have done!</p>
+                        <div className="col-6 text-right plink">
+                            <Link to="/portfolio" className="thisLink">
+                                <h1 className="subh1">Portfolio</h1>
                             </Link>
+                            <p className="subp">Take a look to the work that I have done!</p>
                         </div>
                     </div>
 

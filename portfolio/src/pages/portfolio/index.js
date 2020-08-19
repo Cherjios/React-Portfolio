@@ -16,7 +16,7 @@ function Portfolio() {
                     <p className="lead title-font">Take a look to the work that I have done!</p>
                 </div>
             </div>
-            <div className="container">
+            <div className="container bg-light">
                 {Project.map((xproject) => (
                     <div>
 
