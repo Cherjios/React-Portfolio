@@ -1,10 +1,43 @@
 [
      {
-     "id":1,
-     "name": "Spoiler Alert!",
-     "description": "Helping you use it, before you lose it. Spoiler Alert is a food inventory and status tracking application. Users can sign-in to view items, add items, update item quantities, and remove items from their refrigerator. When items near their expiration date, Spoiler Alert! will send an alert to the user’s email informing him/her of the item that is near expiration.",
-     "img":"https://i.imgur.com/GKBOEZJ.png",
-     "deployedLink": "https://refritrack.herokuapp.com/",
-     "githubLink": "https://github.com/shambhawi13/Refritrack/"
+          "id": 1,
+          "name": "Spoiler Alert!",
+          "description": "Helping you use it, before you lose it. Spoiler Alert is a food inventory and status tracking application. Users can sign-in to view items, add items, update item quantities, and remove items from their refrigerator. When items near their expiration date, Spoiler Alert! will send an alert to the user’s email informing him/her of the item that is near expiration.",
+          "img": "https://i.imgur.com/GKBOEZJ.png",
+          "deployedLink": "https://refritrack.herokuapp.com/",
+          "githubLink": "https://github.com/shambhawi13/Refritrack/"
+     },
+     {
+          "id": 2,
+          "name": "Property-Mover",
+          "description": "Web application where the user is able to find a place to live within a certain price range, compare any distance and commute time.",
+          "img": "https://i.imgur.com/zr5fpfj.jpg",
+          "deployedLink": "https://cherjios.github.io/Property-Mover/",
+          "githubLink": "https://github.com/Cherjios/Property-Mover"
+     },
+     {
+          "id": 3,
+          "name": "Weather-Dashboard",
+          "description": "Weather Dashboard that retrieves data form another application's API",
+          "img": "https://i.imgur.com/UWTxkM4.png",
+          "deployedLink": "https://cherjios.github.io/06-Server-Side-APIs-Weather-Dashboard/",
+          "githubLink": "https://github.com/Cherjios/06-Server-Side-APIs-Weather-Dashboard"
+     },
+     {
+          "id": 4,
+          "name": "Eat that burger",
+          "description": "This application creates a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Following the MVC design pattern; using Node and MySQL to query and route data in app and Handlebars to generate your HTML.",
+          "img": "https://i.imgur.com/LTuHaH9.png",
+          "deployedLink": "https://mysqldeployburger.herokuapp.com/",
+          "githubLink": "https://github.com/Cherjios/burger"
+     },
+     {
+          "id": 5,
+          "name": "Password-Generator",
+          "description": "Web application that generates a costume password, where  special characters, numeric, uppercase or lowercase could be included",
+          "img": "https://i.imgur.com/xu3KRNm.png",
+          "deployedLink": "https://cherjios.github.io/Password-Generator/",
+          "githubLink": "https://github.com/Cherjios/Password-Generator"
      }
+     
 ]

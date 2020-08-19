@@ -11,7 +11,7 @@ import Home from "./pages/home"
 function App() {
   return (
     <Router>
-    <div>
+  
       <Navbar />
       <br />
       <Wrapper>
@@ -21,7 +21,7 @@ function App() {
       </Wrapper>
       <br/>
       <Footer  />
-    </div>
+  
     </Router>
 
 
