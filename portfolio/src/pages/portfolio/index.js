@@ -18,11 +18,16 @@ function Portfolio() {
             </div>
             <div className="container">
                 {Project.map((xproject) => (
-                    <div className="row">
-                        <div className="col" key={xproject.id}>
-                            <h1 >{xproject.name}</h1>
-                            <img src={xproject.img} alt={xproject.name} className="img" />
-                            <div className="box">
+                    <div>
+
+                        <div className="row">
+                            <div className="col"><h1 >{xproject.name}</h1> </div>
+                        </div>
+                        <div className="row">
+                            <div className="col-6" key={xproject.id}>
+                                <img src={xproject.img} alt={xproject.name} className="img" />
+                            </div>
+                            <div className="col-6 box">
                                 <p>{xproject.description}</p>
                                 <div className="links">
                                     <a href={xproject.deployedLink} target="_blank rel=noopener" className="btn btn-dark">Deployed version</a>
@@ -32,8 +37,9 @@ function Portfolio() {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                        <br />
 
+                    </div>
 
                 ))}
             </div>
