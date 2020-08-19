@@ -25,6 +25,14 @@
      },
      {
           "id": 4,
+          "name": "Clicky Game!",
+          "description": "Memory game with React. This web application has been divided into components, manage component state, and respond to user events.",
+          "img": "https://i.imgur.com/vpLQbfd.gif",
+          "deployedLink": "https://cherjios.github.io/18-Clicky-Game/",
+          "githubLink": "https://github.com/Cherjios/18-Clicky-Game"
+     },
+     {
+          "id": 5,
           "name": "Eat that burger",
           "description": "This application creates a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Following the MVC design pattern; using Node and MySQL to query and route data in app and Handlebars to generate your HTML.",
           "img": "https://i.imgur.com/LTuHaH9.png",
@@ -32,12 +40,28 @@
           "githubLink": "https://github.com/Cherjios/burger"
      },
      {
-          "id": 5,
+          "id": 6,
           "name": "Password-Generator",
           "description": "Web application that generates a costume password, where  special characters, numeric, uppercase or lowercase could be included",
           "img": "https://i.imgur.com/xu3KRNm.png",
           "deployedLink": "https://cherjios.github.io/Password-Generator/",
           "githubLink": "https://github.com/Cherjios/Password-Generator"
+     },
+     {
+          "id": 7,
+          "name": "Workout-Tracker",
+          "description": "Workout tracker application that connects with a Mongo database with a Mongoose schema and handle routes with Express.",
+          "img": "https://i.imgur.com/neAAmAW.png",
+          "deployedLink": "https://workout-tracker-sergio.herokuapp.com/?id=5f342b67adff050017f8ffbc",
+          "githubLink": "https://github.com/Cherjios/Workout-Tracker"
+     },
+     {
+          "id": 8,
+          "name": "Express-Note-Taker",
+          "description": "Application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
+          "img": "https://i.imgur.com/PBije8P.gif",
+          "deployedLink": "https://tranquil-garden-00681.herokuapp.com/",
+          "githubLink": "https://github.com/Cherjios/Express-Homework--Note-Taker"
      }
-     
+
 ]

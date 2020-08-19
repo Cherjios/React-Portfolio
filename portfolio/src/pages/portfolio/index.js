@@ -1,4 +1,4 @@
-import React  from "react"
+import React from "react"
 import "./style.css"
 import Project from "../../projects.json"
 
@@ -17,21 +17,25 @@ function Portfolio() {
                 </div>
             </div>
             <div className="container">
-            {Project.map((xproject) => (
-                <div className="col" key={xproject.id}>
-                    <h1 >{xproject.name}</h1>
-                    <img src={xproject.img} alt={xproject.name} className="img" />
-                    <div className="box">
-                        <p>{xproject.description}</p>
-                        <div className="links">
-                            <a href={xproject.deployedLink} target="_blank rel=noopener" className="btn btn-dark">Deployed version</a>
-                            <a className="m-4" href={xproject.githubLink} target="_blank rel=noopener">
-                                <img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="githubicon" />
-                            </a>
+                {Project.map((xproject) => (
+                    <div className="row">
+                        <div className="col" key={xproject.id}>
+                            <h1 >{xproject.name}</h1>
+                            <img src={xproject.img} alt={xproject.name} className="img" />
+                            <div className="box">
+                                <p>{xproject.description}</p>
+                                <div className="links">
+                                    <a href={xproject.deployedLink} target="_blank rel=noopener" className="btn btn-dark">Deployed version</a>
+                                    <a className="m-4" href={xproject.githubLink} target="_blank rel=noopener">
+                                        <img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="githubicon" />
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            ))}
+
+
+                ))}
             </div>
         </div>
 
