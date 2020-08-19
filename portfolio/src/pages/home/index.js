@@ -15,13 +15,13 @@ function Home() {
                 <div className="container">
                     <div className="row">
                         <div className="col-6">
-                            <Link to="/about" className="thisLink">
+                            <Link to="/React-Portfolio/about" className="thisLink">
                                 <h1 className="subh1">About me!</h1>
                             </Link>
                             <p className="subp">I am currently studying the web developer boot camp at Berkeley Extension!</p>
                         </div>
                         <div className="col-6 text-right plink">
-                            <Link to="/portfolio" className="thisLink">
+                            <Link to="/React-Portfolio/portfolio" className="thisLink">
                                 <h1 className="subh1">Portfolio</h1>
                             </Link>
                             <p className="subp">Take a look to the work that I have done!</p>
