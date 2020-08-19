@@ -13,3 +13,12 @@
 .links{
     text-align: center;
 }
+
+h1{
+    text-align: center;
+    padding:3%
+}
+
+p{
+    font-size: 1.3em;
+}
