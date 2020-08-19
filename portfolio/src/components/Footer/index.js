@@ -8,7 +8,7 @@ function Footer (){
         <div className="container">
           <div className="col-md-12  text-center m-2">
             <a className="m-4" href="https://github.com/Cherjios" target="_blank rel=noopener"><img
-                src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="githubicon" /></a>
+                src="https://img.icons8.com/ios-filled/50/000000/github.png"alt="githubicon" /></a>
             <a className="m-4" href="https://www.linkedin.com/in/sergio-lopez-81790579/" target="_blank rel=noopener"><img
                 src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="Linkedicon" /></a>
             <a className="m-4" href="https://twitter.com/SergioL08946225" target="_blank rel=noopener"><img
