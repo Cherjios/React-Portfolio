@@ -10,7 +10,7 @@ function Portfolio() {
 
     return (
         <div>
-            <div className="jumbotron jumbotron-fluid">
+            <div className="jumbotron jumbotron-fluid jcolor">
                 <div className="container text-center">
                     <h1 className="display-4 font-weight-bolder title-font">Portfolio</h1>
                     <p className="lead title-font">Take a look to the work that I have done!</p>
