@@ -26,3 +26,13 @@ p{
 a:visited {
     color: white;
 }
+
+.bjdk{
+    background-color: #0cbaba;
+background-image: linear-gradient(315deg, #0cbaba 15%, #380036 100%);
+}
+
+.titlep{
+    color: whitesmoke;
+    font-family: 'Righteous', cursive;
+}
