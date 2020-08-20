@@ -3,19 +3,19 @@
 }
 
 .titleh1{
-  font-size: 5em;
+  font-size: 5rem;
   font-family: 'Righteous', cursive;
   color: azure;
 }
 
 .ptitle{
-  font-size: 1.8em;
+  font-size: 1.8rem;
   font-family: 'Signika', sans-serif;
   color: azure;
 }
 
 .subh1{
-  font-size: 3.5em;
+  font-size: 3.5rem;
   font-family: 'Righteous', cursive;
   
 }
@@ -57,18 +57,18 @@ a.thisLink:link {
 
   @media (max-width: 576px) {
     .subh1{
-    font-size: 2.0em;
+    font-size: 2.0rem;
   }
   .titleh1{
-    font-size: 3.0em;
+    font-size: 3.0rem;
   }
 
   .ptitle{
-    font-size: 1.3em;
+    font-size: 1.3rem;
   }
 
   .subp{
-    font-size: 1em;
+    font-size: 1rem;
   }
 
 
