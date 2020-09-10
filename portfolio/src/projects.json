@@ -19,7 +19,7 @@
           "id": 3,
           "name": "ForMe",
           "description": "This is a mobile responsive web application that helps to collect data from the user and notify by email with an attachment with the information collected to the party interested. Notifying every time that the user has upload information or update information.",
-          "img": "https://i.imgur.com/u1qJo6C.gifv",
+          "img": "https://i.imgur.com/u1qJo6C.gif",
           "deployedLink": "https://formesergio.herokuapp.com/",
           "githubLink": "https://github.com/Cherjios/Sign-my-form"
      },
