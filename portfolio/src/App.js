@@ -6,6 +6,7 @@ import Footer from "./components/Footer"
 import About from "./pages/About"
 import Portfolio from "./pages/portfolio"
 import Home from "./pages/home"
+import Skills from "./pages/skills"
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Route exact path="/React-Portfolio/" component={Home} />
       <Route exact path="/React-Portfolio/about" component={About} />
       <Route exact path="/React-Portfolio/portfolio" component={Portfolio} />
+      <Route exact path="/React-Portfolio/skills" component={Skills} />
       </Wrapper>
       <br/>
       <Footer  />

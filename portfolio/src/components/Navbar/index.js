@@ -33,6 +33,12 @@ function Navbar() {
                     <li className
                         ="nav-item text-white mtext">
                         <Link className
+                            ="nav-link" to="/React-Portfolio/skills"><span className
+                                ="text-white">Skills</span></Link>
+                    </li>
+                    <li className
+                        ="nav-item text-white mtext">
+                        <Link className
                             ="nav-link" to={PDF} target="_blank"><span className
                                 ="text-white">Resume</span></Link>
                     </li>
