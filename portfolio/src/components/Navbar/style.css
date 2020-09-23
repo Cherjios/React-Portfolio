@@ -6,9 +6,11 @@
 .title-font, .mtext{
 
     font-family: 'Righteous', cursive;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .text-email {
     font-size: 16px;
+    color: #d8dce4;
+    
 }
