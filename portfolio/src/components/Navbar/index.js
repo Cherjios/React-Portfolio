@@ -10,7 +10,7 @@ function Navbar() {
 
         <nav className="navbar navbar-light navbar-expand-md bg-faded justify-content-center ncolor">
             <Link to="/React-Portfolio/" className="navbar-brand d-flex w-50 mr-auto"><span className="text-white title-font">Sergio Lopez
-                Murillo <br /> <span className="text-email">Slopez0286@gmail.com</span></span>
+                 <br /> <span className="text-email">Slopez0286@gmail.com</span></span>
                 </Link>
 
                     
