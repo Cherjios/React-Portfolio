@@ -9,8 +9,11 @@ function Navbar() {
 
 
         <nav className="navbar navbar-light navbar-expand-md bg-faded justify-content-center ncolor">
-            <Link to="/React-Portfolio/" className="navbar-brand d-flex w-50 mr-auto"><samp className="text-white title-font">Sergio Lopez
-                Murillo</samp></Link>
+            <Link to="/React-Portfolio/" className="navbar-brand d-flex w-50 mr-auto"><span className="text-white title-font">Sergio Lopez
+                Murillo <br /> <span className="text-email">Slopez0286@gmail.com</span></span>
+                </Link>
+
+                    
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3">
                 <span className
                     ="navbar-toggler-icon"></span>
