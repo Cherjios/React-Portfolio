@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb4c2b4a4798b31b1894e5a4ab73c264",
+    "revision": "2f075d5395e0eb7baccdcc12b9e35500",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "aef27c7e69ec2097982e",
+    "revision": "de4568ba96bdd0d1de8c",
     "url": "/React-Portfolio/static/css/main.79c8c5b8.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.89723152.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aef27c7e69ec2097982e",
-    "url": "/React-Portfolio/static/js/main.b4b76888.chunk.js"
+    "revision": "de4568ba96bdd0d1de8c",
+    "url": "/React-Portfolio/static/js/main.401b81b7.chunk.js"
   },
   {
     "revision": "7c35ff808cd94c4ce20c",
     "url": "/React-Portfolio/static/js/runtime-main.0ad08de7.js"
   },
   {
-    "revision": "f0bb00089097da521e05c77e547bde0b",
-    "url": "/React-Portfolio/static/media/SergioLopez_Resume.f0bb0008.pdf"
+    "revision": "fc50417874bb55dc4284421dfaf89a90",
+    "url": "/React-Portfolio/static/media/SergioLopez_Resume.fc504178.pdf"
   },
   {
     "revision": "0e1ed516aa2240d737b92a9d115ad016",
