@@ -13,7 +13,7 @@ function Skills (){
 
             <div className="container bjdk">
             <h3 className="titleSk">Languages</h3>
-            <p className="subtitle">JavaScript, Python, ES6, Cascading Style Sheets (CSS), HTML5.</p>
+            <p className="subtitle">JavaScript, Python,Bash, Cascading Style Sheets (CSS), HTML5.</p>
 
             <h3 className="titleSk">Applications</h3>
             <p className="subtitle"> AJAX, API, Bootstraps, Express.js, Git, GitHub, Heroku, jQuery, JSON, Node.js, Object-oriented Programming (OOP), Rest API, SQL, React, JSX, Mongo DB, Mongoose ODM, MySQL, ORM, Sequelize.</p>
