@@ -16,13 +16,14 @@ function Home() {
                     <div className="row">
                         <div className="col-6">
                             <Link to="/React-Portfolio/about" className="thisLink">
-                                <h1 className="subh1">About me!</h1>
+                                <h1 className="subh1 abt">About me!</h1>
                             </Link>
+                    
                             <p className="subp">I got the certificate in full stack web developer at UC Berkeley Extension</p>
                         </div>
                         <div className="col-6 text-right plink">
                             <Link to="/React-Portfolio/portfolio" className="thisLink">
-                                <h1 className="subh1">Portfolio</h1>
+                                <h1 className="subh1 por">Portfolio</h1>
                             </Link>
                             <p className="subp">Take a look to the work that I have done!</p>
                         </div>
