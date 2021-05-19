@@ -14,7 +14,9 @@ function Footer (){
             <a className="m-4 p-2" href="https://twitter.com/SergioL08946225" target="_blank rel=noopener"><img
                 src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="twitterIcon"/></a>
             <a className="m-4 p-2" href="mailto:slopez0286@gmail.com?subject=Mail-frommy-Website" target="_blank rel=noopener"><img
-                src="https://img.icons8.com/material-rounded/48/000000/important-mail.png" alt="mailIcon" /></a>
+                src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png" alt="mailIcon" /></a>
+            
+
           </div>
         </div>
       </div>
