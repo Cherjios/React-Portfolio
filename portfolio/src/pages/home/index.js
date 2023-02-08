@@ -19,7 +19,7 @@ function Home() {
                                 <h1 className="subh1 abt">About me!</h1>
                             </Link>
                     
-                            <p className="subp">I got the certificate in full stack web developer at UC Berkeley Extension</p>
+                            <p className="subp">I obtained the certificate in full stack web developer at UC Berkeley Extension</p>
                         </div>
                         <div className="col-6 text-right plink">
                             <Link to="/React-Portfolio/portfolio" className="thisLink">
