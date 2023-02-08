@@ -9,7 +9,7 @@ function About() {
             <div className="jumbotron jumbotron-fluid jcolor">
                 <div className="container text-center">
                     <h1 className="display-4 font-weight-bolder title-font ah1">About me!</h1>
-                    <p className="ap1">Thanks for visiting my website!</p>
+                    <p className="ap1">Thanks for visiting my website!!!</p>
                 </div>
             </div>
 
